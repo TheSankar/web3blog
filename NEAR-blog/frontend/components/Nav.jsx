@@ -8,7 +8,7 @@ const Nav = ({ accountId }) => {
   return (
     <Flex bg="black.00" alignItems="center">
       <Box p="4" color="gray.50">
-        <Link to="/">FAIR BLOG</Link>
+        <Link to="/">AAA BLOG</Link>
       </Box>
       <Spacer />
       <Box p="4">
