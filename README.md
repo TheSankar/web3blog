@@ -4,14 +4,6 @@ A decentralized blog dApp built on NEAR Protocol where users can read posts, con
  
 ---
  
-## 🧑‍💻 Project Members
- 
-- M. Gomathi Sankar ( lead )
-- S. Angelin Arun
-- S. Anbu Prakash
- 
----
- 
 ## 📌 Overview
  
 Traditional blogging platforms like WordPress, Medium, and Blogger store all user data on centralized servers controlled by a single entity. This introduces risks like censorship, data monetization, privacy concerns, and security vulnerabilities.
