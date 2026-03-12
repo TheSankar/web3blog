@@ -6,7 +6,7 @@ A decentralized blog dApp built on NEAR Protocol where users can read posts, con
  
 ## 🧑‍💻 Project Members
  
-- M. Gomathi Sankar
+- M. Gomathi Sankar ( lead )
 - S. Angelin Arun
 - S. Anbu Prakash
  
